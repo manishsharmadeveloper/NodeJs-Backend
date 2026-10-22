@@ -1,7 +1,6 @@
 
 # Dependencies — ignore in every project
 **/node_modules/
-**/src/db/db.js.*
 
 # Environment files and secrets
 **/.env
@@ -13,6 +12,7 @@
 **/dist/
 **/build/
 **/coverage/
+/Backend-2/src/db/db.js/
 
 # Logs
 **/*.log
