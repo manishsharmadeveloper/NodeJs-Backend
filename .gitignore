@@ -2,10 +2,12 @@
 # Dependencies — ignore in every project
 **/node_modules/
 
+# Ignore backend database file
+Backend-2/src/db/db.js
+
 # Environment files and secrets
 **/.env
 **/.env.*
-**/src/db/db.js.*
 !**/.env.example
 !**/.env.sample
 
