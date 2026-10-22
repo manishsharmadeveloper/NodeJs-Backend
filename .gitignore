@@ -1,7 +1,7 @@
 
 # Dependencies — ignore in every project
 **/node_modules/
-**/db/db.js/
+**/src/db/db.js/
 
 # Environment files and secrets
 **/.env
