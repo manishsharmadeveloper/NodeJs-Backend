@@ -5,7 +5,7 @@
 # Environment files and secrets
 **/.env
 **/.env.*
-/Backend-2/src/db/db.js
+**/src/db/db.js.*
 !**/.env.example
 !**/.env.sample
 
